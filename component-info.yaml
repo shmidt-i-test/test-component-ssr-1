@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-component-ssr-1
+  description: Required description now
+  annotations:
+    github.com/project-slug: shmidt-i-test/test-component-ssr-1
+    backstage.io/techdocs-ref: github:https://github.com/shmidt-i-test/test-component-ssr-1
+spec:
+  type: website
+  lifecycle: experimental
+  owner: shmidt-i

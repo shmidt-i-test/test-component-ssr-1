@@ -1,0 +1,8 @@
+site_name: test-component-ssr-1
+site_description: Required description now
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
